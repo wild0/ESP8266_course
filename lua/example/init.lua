@@ -1,1 +1,1 @@
-print("CHIP", dofile("led.lua").writeled(3))
+print("CHIP", dofile("switch.lua").open(1))
